@@ -9,21 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alimawla69/Discord-OperaGX-Generator.git"
+    "url": "git+https://github.com/therrguy/Discord-OperaGX-Generator.git"
   },
   "bugs": {
-    "url": "https://github.com/alimawla69/Discord-OperaGX-Generator/issues"
+    "url": "https://github.com/therrguy/Discord-OperaGX-Generator/issues"
   },
-  "homepage": "https://github.com/alimawla69/Discord-OperaGX-Generator#readme",
+  "homepage": "https://github.com/therrguy/Discord-OperaGX-Generator#readme",
   "keywords": [
     "discord",
     "nitro-generator",
     "discord-nitro-generator"
   ],
-  "author": "Ali Mawla (_Luffy99)",
-  "mail": "business.alimawla69@gmail.com",
-  "donate": "https://patreon.com/alimawla69",
-  "website": "https://alimawla.xyz/",
+  "author": "_Luffy99",
   "discrod_server": "https://discord.gg/HFZRWUC",
   "license": "ISC",
   "dependencies": {
